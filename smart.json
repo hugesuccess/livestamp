@@ -1,0 +1,11 @@
+{
+  "name": "livestamp",
+  "description": "Livestamp packaged for Meteor, with Handlebars helper.",
+  "homepage": "https://github.com/possibilities/meteor-cool-pkg",
+  "author": "Mike Bannister  (http://po.ssibiliti.es)",
+  "version": "0.1.0",
+  "git": "https://github.com/possibilities/meteor-cool-pkg.git",
+  "packages": {
+    "another-cool-pkg": "0.1.1"
+  }
+}

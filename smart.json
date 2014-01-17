@@ -1,5 +1,5 @@
 {
-  "name": "livestamp",
+  "name": "livestamp-hs",
   "description": "Livestamp packaged for Meteor, with Handlebars helper.",
   "homepage": "https://github.com/hugesuccess/livestamp",
   "author": "Victor Venters (www.hugesuccess.meteor.com)",

@@ -3,7 +3,7 @@
   "description": "Livestamp packaged for Meteor, with Handlebars helper.",
   "homepage": "https://github.com/hugesuccess/livestamp",
   "author": "Victor Venters (www.hugesuccess.meteor.com)",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "git": "https://github.com/hugesuccess/livestamp.git",
   "packages": {
   }

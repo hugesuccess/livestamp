@@ -16,7 +16,7 @@ Just like the [Livestamp docs](http://mattbradley.github.io/livestampjs/) tell y
 
 Or you can use the handlebars helper, where timestamp is a timestamp from your database or template helper:
 
-'{{livestamp timestamp}}'
+{{livestamp timestamp}}
 
 
 Notes

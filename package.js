@@ -3,7 +3,7 @@ Package.describe({
 });
 
 Package.on_use(function(api) {
-    api.use(['jquery', 'handlebars'], 'client');
+    api.use(['jquery', 'blaze'], 'client');
 
     api.add_files(['moment.min.js', 'livestamp.min.js', 'helpers.js'], 'client');
 

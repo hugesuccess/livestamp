@@ -1,0 +1,6 @@
+.build*
+versions.json
+.DS_Store
+~*
+~.swp
+~.bak
